@@ -1,5 +1,4 @@
 # -*- coding: utf-8 -*-
-
 height=float(input("身高="))
 weight=float(input("体重="))
 bim=weight/(height*height)
